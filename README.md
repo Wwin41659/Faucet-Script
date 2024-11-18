@@ -19,6 +19,7 @@ Support:->
  For Step by step installation and setting guide visit my blog post at  https://cryptocrenc.blogspot.com/2020/04/step-by-step-installation-setting-guide.html
  
  Help:->
- Hey if you think the script is useful and want to help script Author ,Welcome at BTC => 1CSmVA8UruFuEURMkAydH5116coL67AzK8
-AND at DOGE => DSQa9cPdqY3D54XBjohqkH7qFWgQ5dJVHq
+ Hey if you think the script is useful and want to help script Author ,Welcome at BTC => 1NvnZWozrh5jdFcTZmQn2YkKC7fnjigCUD
+AND at DOGE => D8CsVrhDerWGEBedRypVLqwbbjRy5E1da7
 thanks to all helper and all the best for your new faucet site.
+
